@@ -41,7 +41,8 @@ Soy desarrollador fullstack enfocado en crear productos web sólidos, desde el f
 
 **Bases de datos**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-sql-server.png" height="40" alt="SQL Server" />
 
 **Herramientas**
 
@@ -55,8 +56,8 @@ Soy desarrollador fullstack enfocado en crear productos web sólidos, desde el f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sevenjpg8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenjpg8&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sevenjpg8&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sevenjpg8&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevenjpg8&theme=tokyonight&hide_border=true" width="60%"/>
 
