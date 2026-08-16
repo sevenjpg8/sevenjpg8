@@ -11,8 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Construyo+experiencias+web+full-stack;Apasionado+por+el+c%C3%B3digo+limpio;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Construyo+soluciones+digitales;Aprendo+construyendo+proyectos;Siempre+buscando+mejorar+%F0%9F%9A%80" />
 </div>
 
 <br/>
