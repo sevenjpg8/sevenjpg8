@@ -42,7 +42,7 @@ Soy desarrollador fullstack enfocado en crear productos web sólidos, desde el f
 **Bases de datos**
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-sql-server.png" height="40" alt="SQL Server" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-sql-server-light.png" height="40" alt="SQL Server" />
 
 **Herramientas**
 
